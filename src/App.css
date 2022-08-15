@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color:#9ED2C6;
+}
+
+.anchor{
+  text-decoration:none;
+  font-weight: 500;
+}
+
+.inp {
+  font-size: 20px;
+  font-weight: 500;
+  height: 31px;
+  text-align: center;
+  border: none;
+  outline: none;
+}
+
+.page{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 20px;
+}
+.butt {
+  font-size: 18px;
+  width: 63px;
+  height: 27px;
+}
